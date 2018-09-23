@@ -1,0 +1,16 @@
+{
+  "name": "PhaserTutorial",
+  "version": "1.0.0",
+  "description": "* Use the folder tree defined below(or adapt your own)\r root\r |\r |---server.js\r |---assets\r |   |---javascript\r |       |---game.js\r |       |---phaser.js\r |   |---index.html",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
